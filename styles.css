@@ -52,11 +52,13 @@ body {
 #video{
     width: auto;
     height: auto;
-},
+}
+
 #map {
     width: auto;
     height: auto;
-},
+}
+
 #giftQRCode {
     margin: 20px;
     width: auto;
