@@ -19,7 +19,7 @@ body {
 
 #root {
     text-align: center;
-    margin: 20px;
+    margin: 100px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -160,7 +160,7 @@ body {
     }
     .carousel img {
         max-width: 100%; /* Make images take full width on smaller screens */
-        height: auto;
+        height: 100px;
     }
 }
 
