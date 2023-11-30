@@ -160,6 +160,8 @@ body {
     }
     .carousel img {
         max-width: 100%; /* Make images take full width on smaller screens */
+        width: 100px;
+        height: 200px;
     }
 }
 
