@@ -41,6 +41,7 @@ document.addEventListener("DOMContentLoaded", function () {
     img.style.width = "100%";
     img.style.maxWidth = "800px";
     img.style.height = "auto";
+    img.style.objectFit = "cover"; // Add this line
     img.style.margin = "10px";
     img.style.transition = `transform ${
       transitionDuration / 1500
