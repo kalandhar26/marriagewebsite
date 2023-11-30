@@ -50,8 +50,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   function createVideo(src) {
     const iframe = document.createElement("iframe");
-    iframe.width = 500;
-    iframe.height = 250;
+    iframe.width = 400;
+    iframe.height = 225;
     iframe.allow =
       "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
     iframe.allowFullscreen = true;
